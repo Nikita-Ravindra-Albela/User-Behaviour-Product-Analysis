@@ -1,0 +1,182 @@
+# Project Overview
+
+This project is a portfolio-safe Power BI dashboard replica developed using mock data inspired by a real freelance analytics engagement in the poultry and agri-input industry.
+
+The dashboards were designed to analyze:
+
+Revenue performance
+Product demand
+Pricing sensitivity
+Customer lifecycle
+User engagement
+Sales channel effectiveness
+
+All data has been anonymized and recreated to ensure client confidentiality and data privacy.
+
+# Business Objective
+
+The objective of this analysis was to help the business:
+
+Identify top-performing products and districts
+Understand customer purchase behavior
+Optimize discount and pricing strategy
+Improve customer retention
+Increase revenue through channel and product analysis
+Support data-driven business decisions
+
+# Key Insights, Recommendations & Business Impact
+# 1. Revenue Is Concentrated in Specific Districts
+
+# Key Insight
+- Hooghly (5.9M) and Mysuru (4.5M) generated the highest revenue among all districts.
+
+# Recommendation
+- Increase sales investment and inventory availability in top-performing districts.
+- Replicate successful sales strategies in lower-performing regions.
+
+# Business Impact
+- Maximizes ROI from high-performing markets.
+- Improves regional expansion strategy and resource allocation.
+
+# 2. Bio-Security Foot Bath & Automatic Bell Drinker Drive Maximum Revenue
+
+# Key Insight
+- These products consistently generated the highest net revenue contribution across channels.
+- Prioritize these SKUs in promotions and inventory planning.
+- Bundle them with slower-moving products to improve cross-selling.
+
+# Business Impact
+- Increases profitability through high-demand product optimization.
+- Reduces inventory stagnation for low-performing products.
+
+# 3. App Channel Outperformed Web & Field Channels
+
+# Key Insight
+- The App channel generated significantly higher revenue (~1.22M) compared to Web (~0.70M) and Field sales.
+
+# Recommendation
+- Focus on mobile-first campaigns and app-exclusive offers.
+- Improve mobile user experience and digital onboarding.
+
+#Business Impact
+- Boosts digital adoption and reduces offline operational dependency.
+- Improves customer convenience and repeat purchases.
+
+# 4. Customers Aged 31–40 Generated Highest Order Volume
+Key Insight
+- The 31–35 and 36–40 age groups contributed the largest share of orders.
+
+# Recommendation
+- Target this demographic with personalized marketing campaigns and loyalty offers.
+- Build customer personas around this core buyer segment.
+
+# Business Impact
+- Improves conversion rates and campaign effectiveness.
+- Enhances customer acquisition efficiency.
+
+# 5. Purchase Gap Averaged 96 Days
+# Key Insight
+- Customers typically reordered products after approximately three months.
+
+# Recommendation
+- Launch automated reminder campaigns before the 90-day repurchase cycle.
+- Introduce subscription or replenishment models.
+
+# Business Impact
+- Improves customer retention and repeat sales.
+- Reduces churn risk through proactive engagement.
+
+# 6. Feed Category Received Highest Discounting (64.8%)
+
+# Key Insight
+- Feed products had significantly higher discounts compared to other categories.
+
+# Recommendation
+- Evaluate whether discounts are increasing profitability or only driving volume.
+- Optimize discounting using margin-based pricing strategies.
+
+# Business Impact
+- Protects profit margins while maintaining sales growth.
+- Improves pricing efficiency.
+
+# 7. Bulk Buyers Purchased More Frequently Than Small Buyers
+
+# Key Insight
+- Bulk buyers showed higher purchase frequency (668 vs 532).
+
+# Recommendation
+- Create loyalty programs and credit benefits for bulk buyers.
+- Develop distributor-focused engagement strategies.
+
+# Business Impact
+- Strengthens long-term customer relationships.
+- Increases customer lifetime value.
+
+# 8. Poultry Feed & Bio-Supplements Dominated Product Demand
+
+# Key Insight
+- These categories showed the highest quantity movement and platform engagement.
+
+# Recommendation
+- Maintain higher stock levels for high-demand categories.
+- Forecast demand using seasonal trend analysis.
+
+# Business Impact
+- Prevents stockouts and revenue loss.
+- Improves supply chain planning.
+
+# 9. Hibernating & At-Risk Customers Were Significant Segments
+
+# Key Insight
+- A considerable number of customers showed declining activity in RFM analysis.
+
+# Recommendation
+- Launch reactivation campaigns with personalized offers.
+- Use engagement triggers through WhatsApp and email automation.
+
+# Business Impact
+- Reduces customer churn.
+- Improves retention without high acquisition costs.
+
+# 10. Revenue Spikes Were Campaign-Driven
+
+# Key Insight
+- Revenue trend analysis showed irregular spikes reaching up to 531K and 451K on certain dates.
+
+# Recommendation
+- Analyze successful campaigns and replicate their timing and structure.
+- Align inventory and staffing during high-demand periods.
+
+# Business Impact
+- Improves campaign planning and forecasting accuracy.
+- Helps scale successful sales strategies.
+
+# Tools & Technologies Used
+Power BI
+DAX
+Power Query
+Data Modeling
+Excel / CSV
+Business Intelligence & Analytics
+Skills Demonstrated
+Executive Dashboard Design
+Pricing Analytics
+Customer Lifecycle Analysis
+RFM Segmentation
+Funnel Analysis
+Business KPI Reporting
+Data Storytelling
+Interactive Dashboard Development
+
+# Data Privacy Statement
+
+This repository contains recreated dashboards using synthetic/mock datasets inspired by a real freelance analytics project.
+
+No client-sensitive data, proprietary business information, or confidential operational metrics have been shared in this project.
+
+The project is intended strictly for portfolio and educational purposes.
+
+Author
+
+Nikita Albela
+Freelance Data Analyst | Power BI Developer | Business Analytics Enthusiast
