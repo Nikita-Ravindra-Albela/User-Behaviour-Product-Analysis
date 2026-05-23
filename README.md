@@ -34,9 +34,9 @@ Optimize marketing and operational decisions
 The goal was to transform fragmented operational data into actionable business insights using interactive dashboards.
 
 # Dashboards Included
-1. Executive Overview
+# 1. Executive Overview
 
-# Tracks overall business KPIs including:
+Tracks overall business KPIs including:
 
 Total Revenue
 Conversion Rate
@@ -47,9 +47,9 @@ Regional Revenue Performance
 Revenue Trends Over Time
 Business Value
 
-# Helps leadership monitor company-wide performance and identify growth opportunities.
+Helps leadership monitor company-wide performance and identify growth opportunities.
 
-2. Price Sensitivity Analysis
+# 2. Price Sensitivity Analysis
 
 Analyzes:
 
@@ -60,9 +60,9 @@ ASP (Average Selling Price)
 Revenue vs Quantity relationships
 Business Value
 
-# Supports pricing optimization and margin improvement strategies.
+Supports pricing optimization and margin improvement strategies.
 
-3. Sales & Product Cycle
+# 3. Sales & Product Cycle
 
 Focuses on:
 
@@ -73,9 +73,9 @@ Product engagement
 Revenue contribution by channel
 Business Value
 
-# Improves channel strategy and customer retention planning.
+Improves channel strategy and customer retention planning.
 
-4. User Profile Journey
+# 4. User Profile Journey
 
 Analyzes:
 
@@ -86,9 +86,9 @@ User distribution by region and channel
 Product category engagement
 Business Value
 
-# Enables targeted marketing and customer segmentation.
+Enables targeted marketing and customer segmentation.
 
-5. Customer Lifecycle Analytics
+# 5. Customer Lifecycle Analytics
 
 Includes:
 
@@ -99,9 +99,9 @@ Funnel behavior
 Retention monitoring
 Business Value
 
-# Helps reduce churn and improve customer lifetime value.
+Helps reduce churn and improve customer lifetime value.
 
-Tools & Technologies Used
+# Tools & Technologies Used
 Power BI
 Power Query
 DAX
