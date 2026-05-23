@@ -3,11 +3,11 @@ This project is a Power BI analytics dashboard replica developed to demonstrate 
 
 # The dashboard suite provides insights into:
 
-Executive business performance
-Customer lifecycle and retention
-Product pricing sensitivity
-User journey analytics
-Sales and purchase cycle behavior
+- Executive business performance
+- Customer lifecycle and retention
+- Product pricing sensitivity
+- User journey analytics
+- Sales and purchase cycle behavior
 
 # The project was inspired by a real freelance client engagement.
 To maintain client confidentiality and data privacy, all datasets, identifiers, and business values used in this portfolio version are mocked, anonymized, and recreated for demonstration purposes only.
