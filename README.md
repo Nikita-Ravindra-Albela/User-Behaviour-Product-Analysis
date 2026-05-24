@@ -24,12 +24,12 @@ All visuals, KPIs, and datasets have been modified and recreated solely for educ
 
 The business needed a centralized analytics solution to:
 
-Monitor revenue and sales trends
-Understand customer buying behavior
-Analyze product demand and pricing sensitivity
-Improve customer retention
-Identify high-performing regions and channels
-Optimize marketing and operational decisions
+-  Monitor revenue and sales trends
+-  Understand customer buying behavior
+-  Analyze product demand and pricing sensitivity
+-  Improve customer retention
+-  Identify high-performing regions and channels
+-  Optimize marketing and operational decisions
 
 The goal was to transform fragmented operational data into actionable business insights using interactive dashboards.
 
@@ -38,103 +38,102 @@ The goal was to transform fragmented operational data into actionable business i
 
 Tracks overall business KPIs including:
 
-Total Revenue
-Conversion Rate
-Average Order Value
-Total Quantity Sold
-Bounce Rate
-Regional Revenue Performance
-Revenue Trends Over Time
-Business Value
+- Total Revenue
+- Conversion Rate
+- Average Order Value
+- Total Quantity Sold
+- Bounce Rate
+- Regional Revenue Performance
+- Revenue Trends Over Time
 
-Helps leadership monitor company-wide performance and identify growth opportunities.
+# Business Value
+- Helps leadership monitor company-wide performance and identify growth opportunities.
 
 # 2. Price Sensitivity Analysis
 
 Analyzes:
 
-Product pricing impact
-Discount effectiveness
-Net pricing trends
-ASP (Average Selling Price)
-Revenue vs Quantity relationships
-Business Value
-
-Supports pricing optimization and margin improvement strategies.
+- Product pricing impact
+- Discount effectiveness
+- Net pricing trends
+- ASP (Average Selling Price)
+- Revenue vs Quantity relationships
+  
+# Business Value
+-  Supports pricing optimization and margin improvement strategies.
 
 # 3. Sales & Product Cycle
 
 Focuses on:
 
-Preferred sales channels
-Purchase frequency
-Buyer behavior
-Product engagement
-Revenue contribution by channel
-Business Value
-
-Improves channel strategy and customer retention planning.
+- Preferred sales channels
+- Purchase frequency
+- Buyer behavior
+- Product engagement
+- Revenue contribution by channel
+  
+# Business Value
+- Improves channel strategy and customer retention planning.
 
 # 4. User Profile Journey
 
 Analyzes:
 
-Customer intent categories
-Discount usage patterns
-Platform visits
-User distribution by region and channel
-Product category engagement
-Business Value
-
-Enables targeted marketing and customer segmentation.
+- Customer intent categories
+- Discount usage patterns
+- Platform visits
+- User distribution by region and channel
+- Product category engagement
+  
+# Business Value
+-  Enables targeted marketing and customer segmentation.
 
 # 5. Customer Lifecycle Analytics
 
 Includes:
 
-RFM segmentation
-Customer engagement stages
-Purchase gap analysis
-Funnel behavior
-Retention monitoring
-Business Value
-
-Helps reduce churn and improve customer lifetime value.
+- RFM segmentation
+- Customer engagement stages
+- Purchase gap analysis
+- Funnel behavior
+- Retention monitoring
+  
+# Business Value
+- Helps reduce churn and improve customer lifetime value.
 
 # Tools & Technologies Used
-Power BI
-Power Query
-DAX
-Data Modeling
-Excel / CSV
-Business Analytics
-Data Visualization
-Key Skills Demonstrated
-KPI Dashboard Development
-Data Cleaning & Transformation
-Data Modeling
-DAX Calculations
-Customer Segmentation
-Funnel Analysis
-Pricing Analytics
-Business Storytelling
-Executive Reporting
-Interactive Visualization Design
-Example Insights Generated
-Identified top-performing districts contributing maximum revenue
-Detected high-value customer segments using RFM analysis
-Analyzed purchase gaps to improve retention campaigns
-Evaluated pricing sensitivity and discount effectiveness
-Determined dominant product categories driving sales
-AI Usage in Workflow
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Excel / CSV
+- Business Analytics
+- Data Visualization
+- Key Skills Demonstrated
+- KPI Dashboard Development
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Customer Segmentation
+- Funnel Analysis
+- Pricing Analytics
+- Business Storytelling
+- Executive Reporting
+- Interactive Visualization Design
+- Example Insights Generated
+- Identified top-performing districts contributing maximum revenue
+- Detected high-value customer segments using RFM analysis
+- Analyzed purchase gaps to improve retention campaigns
+- Evaluated pricing sensitivity and discount effectiveness
+- Determined dominant product categories driving sales
+-
+- # AI Usage in Workflow
+AI tools were used to enhance productivity during the analytics workflow, including:
 
-# AI tools were used to enhance productivity during the analytics workflow, including:
-
-Generating DAX optimization ideas
-Assisting with dashboard storytelling
-Brainstorming KPI structures
-Improving documentation and reporting
-Accelerating data-cleaning logic validation
+- Brainstorming KPI structures
+- Assisting with dashboard storytelling
+- Improving documentation and reporting
+- Accelerating data-cleaning logic validation
 
 All final business decisions, analysis logic, dashboard development, and insight generation were independently designed and validated.
 
@@ -142,10 +141,11 @@ All final business decisions, analysis logic, dashboard development, and insight
 
 This project was created to:
 
-Showcase freelance data analytics experience
-Demonstrate end-to-end BI dashboarding skills
-Present business-focused analytical thinking
-Build a portfolio-ready case study without compromising client privacy
+- Showcase freelance data analytics experience
+- Demonstrate end-to-end BI dashboarding skills
+- Present business-focused analytical thinking
+- Build a portfolio-ready case study without compromising client privacy
+  
 Author
 
 Nikita Albela
@@ -155,8 +155,7 @@ Freelance Data Analyst | Power BI Developer | Business Analytics Enthusiast
 
 This repository is intended strictly for:
 
-Portfolio demonstration
-Learning purposes
-Analytics case study presentation
-
-Commercial reuse of branding, business assumptions, or recreated datasets is not intended.
+- Portfolio demonstration
+- Learning purposes
+- Analytics case study presentation
+- Commercial reuse of branding, business assumptions, or recreated datasets is not intended.
